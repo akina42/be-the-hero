@@ -6,7 +6,7 @@ Be The Hero é um projeto para facilitar o contato entre ONGs (Organizações n�
 
 ![Home](./layouts/Home.png)
 
-![Aplicativo](./layouts/App.jpeg)
+<img src="./layouts/App.jpeg"  height="640" width="360" />
 
 ## Getting Started
 Para rodar a aplicação localmente:
